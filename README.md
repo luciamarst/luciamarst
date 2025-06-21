@@ -1,9 +1,8 @@
 <h1 align="center">¡Hola, soy Lucía! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Desarrolladora;Estudiante+de+Ingeniería+Informática;Apasionada+por+la+tecnología" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Desarrolladora;Estudiante+de+Ingeniería+Informática;Apasionada+por+la+tecnología" alt="Typing SVG" /> 
 </p>
-
 
 ## 🌸 Sobre mí
 

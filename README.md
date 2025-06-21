@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Desarrolladora+Creativa;Estudiante+de+Ingeniería+Informática;Apasionada+por+la+tecnología" alt="Typing SVG" />
 </p>
 
----
 
 ## 🌸 Sobre mí
 

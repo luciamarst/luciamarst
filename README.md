@@ -18,7 +18,8 @@
 </p>
 
 ## 📈 Actividad reciente
-![Actividad diaria de GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=luciamarst&theme=dracula)
+![Actividad diaria](https://github-readme-activity-graph.cyclic.app/graph?username=luciamarst&theme=dracula)
+
 
 
 ---

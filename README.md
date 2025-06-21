@@ -1,6 +1,12 @@
-# ¡Hola, soy Lucía! 👋
+<h1 align="center">¡Hola, soy Lucía! 👋</h1>
 
-🌐 Visita mi web 👉 [luciamarst.github.io](https://luciamarst.github.io)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Desarrolladora+Creativa;Estudiante+de+Ingeniería+Informática;Apasionada+por+la+tecnología" alt="Typing SVG" />
+</p>
+
+---
+
+## 🌸 Sobre mí
 
 - 📚 Estudiante de Ingeniería Informática.
 - 🔭 Actualmente trabajando en **Métodos Algorítmicos I** y otros proyectos más adelante. 

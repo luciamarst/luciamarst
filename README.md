@@ -15,7 +15,7 @@
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=luciamarst&show_icons=true&theme=radical" /> 
-  <img height="160px" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
+  <img height="160px" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
 </p>
 
 

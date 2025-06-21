@@ -18,6 +18,7 @@
 </p>
 
 ## 📈 Actividad reciente
-[![Lucía's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luciamarst&theme=github-2019)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![Actividad diaria de GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=luciamarst&theme=dracula)
+
 
 ---

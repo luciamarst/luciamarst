@@ -2,8 +2,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Desarrolladora;Estudiante+de+Ingeniería+Informática;Apasionada+por+la+tecnología" alt="Typing SVG" /> 
+</p>
 
-  
+<p align="center">  
   <img height="160px" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif"/>
 </p>
 

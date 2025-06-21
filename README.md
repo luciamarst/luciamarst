@@ -14,8 +14,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=luciamarst&show_icons=true&theme=radical" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=luciamarst&theme=dracula" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=luciamarst&show_icons=true&theme=radical" /> 
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" />
 </p>
 
 

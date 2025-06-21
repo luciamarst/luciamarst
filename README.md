@@ -15,7 +15,9 @@
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=luciamarst&show_icons=true&theme=radical" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciamarst&layout=compact&theme=radical" />
 </p>
+
+## 📈 Actividad reciente
+[![Lucía's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luciamarst&theme=github-2019)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---

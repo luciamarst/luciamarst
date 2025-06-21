@@ -15,10 +15,8 @@
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=luciamarst&show_icons=true&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=luciamarst&theme=dracula" />
 </p>
-
-## 📈 Actividad reciente
-![Actividad diaria](https://activity-graph.herokuapp.com/graph?username=luciamarst&theme=dracula)
 
 
 

@@ -13,8 +13,7 @@
 - 📚 Estudiante de Ingeniería Informática.
 - 🔭 Actualmente trabajando en **Métodos Algorítmicos I** y otros proyectos más adelante. 
 - 💬 Pregúntame sobre Python, Java, C++ y muchos más!
-- 👾 Me encanta la programación con restricciones.
-- 
+- 👾 Me encanta la programación con restricciones. 
 
 ## 📊 Estadísticas de GitHub
 

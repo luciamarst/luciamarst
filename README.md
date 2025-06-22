@@ -8,7 +8,7 @@
    <img height="200px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN20xZ3hqNmZxZDl3bGY0dXo5bWRlbGx3cm93MDdqcThrNWZjcDFrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif" alt="GIF animado" />
 </p>
 
-## 🌸 Sobre mí
+## Sobre mí
 
 - 📚 Estudiante de Ingeniería Informática.
 - 🔭 Actualmente trabajando en **Métodos Algorítmicos I** y otros proyectos más adelante. 

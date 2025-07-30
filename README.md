@@ -12,9 +12,22 @@
 
 ## Sobre mí
 
-- 📚 Estudiante de Ingeniería Informática.
-- 💬 Python, Java, C++ y muchos más!
-- 👾 Me encanta la programación con restricciones. 
+# 👋 ¡Hola! Soy Lucía
+
+Soy una estudiante apasionada por la programación. Me encanta aprender nuevas tecnologías, resolver problemas y trabajar en proyectos que aporten valor.
+
+- Actualmente estoy aprendiendo: Circom, Git y desarrollo web
+- Tecnolobías favoritas: Minizinc, Z3 y C++
+- Puedes contactarme: luciamarst@gmail.com
+  
+## 💼 Technical Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+</p>
 
 ## 📊 Estadísticas de GitHub
 

@@ -5,8 +5,11 @@
 </p>
 
 <p align="center">  
-   <img height="200px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN20xZ3hqNmZxZDl3bGY0dXo5bWRlbGx3cm93MDdqcThrNWZjcDFrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/awGA2x8j6BlgSAOG5e/giphy.gif" alt="GIF animado" />
+   <img width="1920" height="1080" alt="banner github" src="https://github.com/user-attachments/assets/e88d5a37-005f-4516-8d30-b23b0675882a" />
 </p>
+
+
+
 
 ## Sobre mí
 

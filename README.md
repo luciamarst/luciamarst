@@ -5,9 +5,8 @@
 </p>
 
 <p align="center">  
-   <img width="1920" height="1080" alt="banner github" src="https://github.com/user-attachments/assets/e88d5a37-005f-4516-8d30-b23b0675882a" />
+   <img width="1404" height="416" alt="Captura desde 2025-07-30 17-22-40" src="https://github.com/user-attachments/assets/dda1a340-5c97-4fad-9b95-7c997fd486ea" />
 </p>
-
 
 
 

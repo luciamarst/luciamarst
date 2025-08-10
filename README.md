@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">  
-   <img width="1404" height="416" alt="Captura desde 2025-07-30 17-22-40" src="https://github.com/user-attachments/assets/dda1a340-5c97-4fad-9b95-7c997fd486ea" />
+   <img width="1404" height="416" alt="portada github" src="https://github.com/user-attachments/assets/9a32c8e8-f90f-4f14-9376-743337e02ea5" />
 </p>
-![portada github](https://github.com/user-attachments/assets/9a32c8e8-f90f-4f14-9376-743337e02ea5)
 
 
 # 👋 ¡Hola! Soy Lucía

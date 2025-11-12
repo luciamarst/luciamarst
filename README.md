@@ -11,8 +11,8 @@
 
 Soy una estudiante apasionada por la programación. Me encanta aprender nuevas tecnologías, resolver problemas y trabajar en proyectos que aporten valor.
 
-- Actualmente estoy aprendiendo: Circom, Git y desarrollo web
-- Tecnologías favoritas: Minizinc, Z3 y C++
+- Actualmente estoy aprendiendo: Git, Rust y Docker
+- Tecnologías favoritas: C++, Java y Circom
 - Puedes contactarme: luciamarst@gmail.com
   
 ## 💼 Technical Skills

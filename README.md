@@ -15,7 +15,7 @@ Soy una alumna apasionada por la programación. Me gusta aprender nuevas tecnolo
 - Tecnologías favoritas: C++, Java y Circom
 - Puedes contactarme: luciamarst@gmail.com
   
-## 💼 Technical Skills
+## 💼 Habilidades técnicas
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />

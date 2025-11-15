@@ -22,9 +22,9 @@ Soy una estudiante apasionada por la programación. Me encanta aprender nuevas t
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/⚙️%20Z3_Solver-007ACC?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🧩%20MiniZinc-A64AC9?style=for-the-badge&logoColor=white" />
-   <img src="https://img.shields.io/badge/🧩%20Circom-500082?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20Z3_Solver-007ACC?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20MiniZinc-A64AC9?style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/%20Circom-500082?style=for-the-badge&logoColor=white" />
 </p>
 
 

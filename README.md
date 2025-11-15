@@ -9,7 +9,7 @@
 
 # 👋 ¡Hola! Soy Lucía
 
-Soy una estudiante apasionada por la programación. Me encanta aprender nuevas tecnologías, resolver problemas y trabajar en proyectos que aporten valor.
+Soy una alumna apasionada por la programación. Me gusta aprender nuevas tecnologías, solucionar problemas y trabajar en proyectos que aporten valor.
 
 - Actualmente estoy aprendiendo: Git, Rust y Docker
 - Tecnologías favoritas: C++, Java y Circom

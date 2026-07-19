@@ -18,13 +18,7 @@ Computer Science Engineer, recently graduated 😎. Right now I'm diving into th
 ## 💼 Hard skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/%20Z3_Solver-007ACC?style=for-the-badge&logo=Z3&logoColor=white" />
-  <img src="https://img.shields.io/badge/%20MiniZinc-A64AC9?style=for-the-badge&logo=MiniZinc&logoColor=white" />
-   <img src="https://img.shields.io/badge/%20Circom-500082?style=for-the-badge&logo=Circom&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,cmake,latex,cpp,c,py,java,haskell,rust,git,github,gitlab" />
 </p>
 
 

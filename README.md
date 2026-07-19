@@ -7,15 +7,15 @@
 </p>
 
 
-# 👋 ¡Hola! Soy Lucía
+# 👋 ¡Hii! I'm Lucía 🪼
 
-Soy una alumna apasionada por la programación. Me gusta aprender nuevas tecnologías, solucionar problemas y trabajar en proyectos que aporten valor.
+Computer Science Engineer, recently graduated 😎. Right now I'm diving into the world of blockchain, a field I'm genuinely passionate about, particularly the foundations behind decentralized networks.
 
-- Actualmente estoy aprendiendo: Git, Rust y Docker
-- Tecnologías favoritas: C++, Java y Circom
-- Puedes contactarme: luciamarst@gmail.com
+- Currently learning: Ethereum
+- Areas of interest: Zero-Knowledge Proofs, Cryptography and Blockchain
+- Contact: luciamarst@gmail.com
   
-## 💼 Habilidades técnicas
+## 💼 Hard skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
@@ -28,7 +28,7 @@ Soy una alumna apasionada por la programación. Me gusta aprender nuevas tecnolo
 </p>
 
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=luciamarst&show_icons=true&theme=radical" /> 

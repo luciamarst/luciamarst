@@ -26,9 +26,8 @@ Also i'm familiarized with Circom and constraints languages like Minizinc or Z3.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=luciamarst&show_icons=true&theme=radical" /> 
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciamarst&layout=compact&theme=radical" />
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=luciamarst&theme=radical" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=luciamarst&show_icons=true&theme=radical&cache_seconds=86400" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciamarst&layout=compact&theme=radical&cache_seconds=86400" />
 </p>
 
 

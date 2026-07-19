@@ -18,7 +18,7 @@ Computer Science Engineer, recently graduated 😎. Right now I'm diving into th
 ## 💼 Hard skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,cmake,latex,,git,github,gitlab,cpp,c,py,java,haskell,rust" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,cmake,latex,git,github,gitlab,cpp,c,py,java,haskell,rust" />
 </p>
 
 Also i'm familiarized with Circom and constraints languages like Minizinc or Z3.

@@ -21,11 +21,14 @@ Computer Science Engineer, recently graduated 😎. Right now I'm diving into th
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,cmake,latex,cpp,c,py,java,haskell,rust,git,github,gitlab" />
 </p>
 
+Also i'm familiarized with Circom and constraints languages like Minizinc or Z3.
 
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=luciamarst&show_icons=true&theme=radical" /> 
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciamarst&layout=compact&theme=radical" />
+  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=luciamarst&theme=radical" />
 </p>
 
 
